@@ -1,0 +1,9 @@
+{
+  "name": "Bouzouki Fretboard Internalizer",
+  "short_name": "Bouzouki Map",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f7f3eb",
+  "theme_color": "#1f2937",
+  "icons": []
+}
