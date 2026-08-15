@@ -1,15 +1,15 @@
 {
   "name": "Bouzouki Fretboard Internalizer",
   "short_name": "Bouzouki Notes",
-  "description": "4-course bouzouki fretboard, scale, guided session, and quiz trainer.",
+  "description": "4-course bouzouki fretboard, scale, and quiz internalization app.",
   "start_url": "./index.html",
-  "scope": "./",
   "display": "standalone",
   "background_color": "#f7f3eb",
   "theme_color": "#31485f",
+  "orientation": "portrait",
   "icons": [
-    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},
-    {"src":"./apple-touch-icon.png","sizes":"180x180","type":"image/png","purpose":"any"}
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
   ]
 }
